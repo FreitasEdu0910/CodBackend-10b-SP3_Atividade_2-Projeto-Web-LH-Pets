@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "apNKzE6XSOjEXvKnHGmDK6YIZ0o+e5UrWwDLXTKWKaA=",
+  "Source": "Projeto_Web_Lh_Pets_versao_1",
+  "BasePath": "_content/Projeto_Web_Lh_Pets_versao_1",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Projeto_Web_Lh_Pets_versao_1\\wwwroot",
+      "Source": "Projeto_Web_Lh_Pets_versao_1",
+      "ContentRoot": "D:\\0.Senai_PBE_T14\\09. Codificacao para Back-End\\10b - SP3 - Atividade 2\\Atividade\\Projeto_Web_Lh_Pets_versao_1\\wwwroot\\",
+      "BasePath": "_content/Projeto_Web_Lh_Pets_versao_1",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\0.Senai_PBE_T14\\09. Codificacao para Back-End\\10b - SP3 - Atividade 2\\Atividade\\Projeto_Web_Lh_Pets_versao_1\\wwwroot\\index.html",
+      "SourceId": "Projeto_Web_Lh_Pets_versao_1",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\0.Senai_PBE_T14\\09. Codificacao para Back-End\\10b - SP3 - Atividade 2\\Atividade\\Projeto_Web_Lh_Pets_versao_1\\wwwroot\\",
+      "BasePath": "_content/Projeto_Web_Lh_Pets_versao_1",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
